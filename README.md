@@ -38,7 +38,7 @@
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/b6f2d3c0-3d3f-4d3f-8f3f-3f3f3f3f3f3f" width="48" height="48" alt="LangChain" onerror="this.src='https://avatars.githubusercontent.com/u/126733545?s=200&v=4'" />
+        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
@@ -152,11 +152,11 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" width="48" height="48" alt="Pinecone" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Pinecone-Full-Logo-Black.svg" width="48" height="48" alt="Pinecone" />
       <br>Pinecone
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/docs.trychroma.com/img/chroma.svg" width="48" height="48" alt="Chroma" />
+        <img src="https://github.com/chroma-core/chroma/raw/main/docs/assets/chroma-wordmark-color.png" width="48" height="48" alt="Chroma" />
       <br>Chroma
     </td>
     <td align="center" width="96">
