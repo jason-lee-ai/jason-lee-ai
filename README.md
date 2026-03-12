@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚜ Senior Software Engineer & AI Architect ⚜
+# ⚜ Senior Software Engineer ⚜
 
 </div>
 
 ## ✒ About Me
 
-**Senior Software Engineer & AI Architect** specializing in designing and building **intelligent, scalable systems** that leverage the power of artificial intelligence. I bridge the gap between **traditional software engineering** and **cutting-edge AI/ML technologies**, creating solutions that are both innovative and production-ready.
+**Senior Software Engineer** specializing in designing and building **intelligent, scalable systems** that leverage the power of artificial intelligence. I bridge the gap between **traditional software engineering** and **cutting-edge AI/ML technologies**, creating solutions that are both innovative and production-ready.
 
 <div style="margin-left: 5px">
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
