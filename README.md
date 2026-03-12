@@ -200,4 +200,4 @@
 
 ### 💬 Let's Connect!
 
-Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas. Let's start
+Feel free to reach out for collaboration! I'm always open to discussing new projects and ideas. Let's start
